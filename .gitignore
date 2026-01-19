@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ExpenseManager.API/obj
+/src/ExpenseManager.Application/obj
+/src/ExpenseManager.Core/obj
+/src/ExpenseManager.Infrastructure/obj
+/.vs
