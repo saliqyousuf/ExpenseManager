@@ -7,3 +7,7 @@
 /src/ExpenseManager.Core/obj
 /src/ExpenseManager.Infrastructure/obj
 /.vs
+/src/ExpenseManager.API/bin/Debug/net6.0
+/src/ExpenseManager.Infrastructure/bin/Debug/net6.0
+/src/ExpenseManager.Core/bin/Debug/net6.0
+/src/ExpenseManager.Application/bin/Debug/net6.0
